@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats  
 ![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=awasthi16&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi16&layout=compact&theme=radical)  
 
 ---
 
