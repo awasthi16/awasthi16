@@ -31,24 +31,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi16&layout=compact&theme=radical)  
 
-## 📊 GitHub Stats & Streak  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awasthi16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=awasthi16E&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
 
----
 
-## 🏆 GitHub Trophies  
 
-<---<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awasthi16&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>--->
 
 
 ---
