@@ -1,13 +1,20 @@
 
 
-# 👋 Hi, I'm Durgesh  
+# 👋 Hi, I'm Durgesh Awasthi 
 
 ## 🚀 About Me  
-- 💻 Full-Stack Developer | ⚡ Competitive Programmer  
-- 🌐 Love building scalable **web applications** and **real-time systems**  
-- 🏆 Solve challenging problems through **competitive programming**  
-- 📚 Always learning, improving, and contributing to tech communities  
-- 🌱 Currently exploring **System Design, WebRTC, and Advanced Backend Development**  
+
+👨‍🏫 Professor | AI Researcher | ML Engineer
+
+💻 Full-Stack Developer | ⚡ Competitive Programmer
+
+🌐 Passionate about building scalable web applications, AI-driven systems, and real-time solutions
+
+🏆 Love solving complex problems through research and competitive programming
+
+📚 Lifelong learner, exploring the intersections of AI, System Design, and Advanced Backend Development
+
+🌱 Currently working on Machine Learning Research, WebRTC, and Intelligent System Architectures
 
 ---
 
